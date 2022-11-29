@@ -1,0 +1,69 @@
+Last login: Fri Nov 25 11:08:00 on ttys002
+(base) danielleb.@Danielles-MBP ~ % cd documents
+(base) danielleb.@Danielles-MBP documents % cd GitHub
+(base) danielleb.@Danielles-MBP GitHub % cd Python-challange 
+(base) danielleb.@Danielles-MBP Python-challange % cd Pypoll/
+(base) danielleb.@Danielles-MBP Pypoll % python main.py
+/Users/danielleb./Documents/GitHub/Python-challange/PyPoll
+{'Charles Casper Stockham': 85213, 'Diana DeGette': 272892, 'Raymon Anthony Doane': 11606}
+Election_results :
+------------------
+total votes
+369711
+-------------------
+{'Charles Casper Stockham': 85213, 'Diana DeGette': 272892, 'Raymon Anthony Doane': 11606}
+dict_values([85213, 272892, 11606])
+Charles Casper Stockham
+Diana DeGette
+Raymon Anthony Doane
+Winner:  Diana DeGette
+(base) danielleb.@Danielles-MBP Pypoll % python main.py
+/Users/danielleb./Documents/GitHub/Python-challange/PyPoll
+{'Charles Casper Stockham': 85213, 'Diana DeGette': 272892, 'Raymon Anthony Doane': 11606}
+Election_results :
+------------------
+total votes
+369711
+-------------------
+{'Charles Casper Stockham': 85213, 'Diana DeGette': 272892, 'Raymon Anthony Doane': 11606}
+dict_values([85213, 272892, 11606])
+Charles Casper Stockham 85213 23.05%
+Diana DeGette 272892 73.81%
+Raymon Anthony Doane 11606 3.14%
+Winner:  Diana DeGette
+(base) danielleb.@Danielles-MBP Pypoll % python main.py
+/Users/danielleb./Documents/GitHub/Python-challange/PyPoll
+Election_results :
+------------------
+total votes
+369711
+-------------------
+Charles Casper Stockham 85213 23.05%
+Diana DeGette 272892 73.81%
+Raymon Anthony Doane 11606 3.14%
+Winner:  Diana DeGette
+(base) danielleb.@Danielles-MBP Pypoll % python main.py
+/Users/danielleb./Documents/GitHub/Python-challange/PyPoll
+Election_results :
+------------------
+total votes
+369711
+-------------------
+Charles Casper Stockham 85213 23.05%
+Diana DeGette 272892 73.81%
+Raymon Anthony Doane 11606 3.14%
+--------------------
+Winner:  Diana DeGette
+(base) danielleb.@Danielles-MBP Pypoll % python main.py
+/Users/danielleb./Documents/GitHub/Python-challange/PyPoll
+Election_results :
+------------------
+total votes
+369711
+-------------------
+Charles Casper Stockham 85213 23.05%
+Diana DeGette 272892 73.81%
+Raymon Anthony Doane 11606 3.14%
+--------------------
+Winner:  Diana DeGette
+(base) danielleb.@Danielles-MBP Pypoll % 

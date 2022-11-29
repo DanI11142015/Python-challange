@@ -1,0 +1,24 @@
+Last login: Mon Nov 28 18:17:06 on ttys003
+(base) danielleb.@Danielles-MBP ~ % cd documents/
+(base) danielleb.@Danielles-MBP documents % cd GitHub
+(base) danielleb.@Danielles-MBP GitHub % cd Python-challange 
+(base) danielleb.@Danielles-MBP Python-challange % cd PyBank/
+(base) danielleb.@Danielles-MBP PyBank % main.py
+zsh: command not found: main.py
+(base) danielleb.@Danielles-MBP PyBank % app.py
+zsh: command not found: app.py
+(base) danielleb.@Danielles-MBP PyBank % ls
+Resources	analysis	main.py
+(base) danielleb.@Danielles-MBP PyBank % main.py
+zsh: command not found: main.py
+(base) danielleb.@Danielles-MBP PyBank % python main.py 
+Total Months: 86
+Total $22564198
+Average Change $262374.3953488372
+Greatest Increase in Profits :Mar-13 1141840
+Greatest Decrease in Profits :Dec-10 -1194133
+(base) danielleb.@Danielles-MBP PyBank % 
+
+
+
+
