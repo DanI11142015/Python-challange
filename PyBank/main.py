@@ -1,6 +1,6 @@
 import os
 import csv
-path = os.getcwd()
+path = os.getcwd() #used to see if we were in the correct path current working directory cwd.
 #print(path)
 date = [] # empty list by creating square brackets
 profit_losses = []
@@ -33,7 +33,5 @@ mi_index = profit_losses.index(mi_profits) # refer. the profit losses list to as
 mi_date = date[mi_index]
 min_profts = "Greatest Decrease in Profits :"+mi_date+" "+ str(mi_profits)
 print(min_profts)
-
-
 
 
